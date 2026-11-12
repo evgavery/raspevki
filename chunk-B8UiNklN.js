@@ -1,1 +1,0 @@
-import{H as Z,K as ar,mt as k,st as h}from"./chunk-C9yI6GYC.js";import{f as $}from"./main-BD6C6GDC.js";function m(r){let o=h($),i=!1,n=e=>{e!==i&&(i=e,o.setStageVoiceLine(e))};ar(()=>{let e=r()&&o.isStageAttached()&&o.isMicOn();k(()=>n(e))}),h(Z).onDestroy(()=>n(!1))}export{m as t};
