@@ -1,0 +1,1 @@
+var t=new Intl.PluralRules(`ru-RU`);function e(r,l){return`${r} ${l[t.select(r)]??l.other}`}export{e as t};
