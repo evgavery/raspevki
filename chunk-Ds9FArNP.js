@@ -1,1 +1,0 @@
-var s={phase:{listen:`Слушай`,inhale:`Вдох`,sing:`Пой`}};export{s as t};

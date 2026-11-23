@@ -1,0 +1,1 @@
+import{C as J,It as ro,ct as h,vt as k}from"./chunk-3OCV6oQp.js";import{d as $}from"./main-SHW4E4DU.js";function m(r){let o=h($),i=!1,n=e=>{e!==i&&(i=e,o.setStageVoiceLine(e))};ro(()=>{let e=r()&&o.isStageAttached()&&o.isMicOn();k(()=>n(e))}),h(J).onDestroy(()=>n(!1))}export{m as t};
