@@ -1,1 +1,0 @@
-import{Dt as ne,ht as j}from"./chunk-3OCV6oQp.js";var r=class n{id=j(null);runningId=this.id.asReadonly();begin(i){this.id.set(i)}end(i){this.id()===i&&this.id.set(null)}static ɵfac=function(a){return new(a||n)};static ɵprov=ne({token:n,factory:n.ɵfac})};export{r as t};
