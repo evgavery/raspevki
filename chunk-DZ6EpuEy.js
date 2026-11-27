@@ -1,0 +1,1 @@
+import{o as B,zt as te}from"./chunk-DMMHo-c3.js";var r=class n{id=B(null);runningId=this.id.asReadonly();begin(i){this.id.set(i)}end(i){this.id()===i&&this.id.set(null)}static ɵfac=function(a){return new(a||n)};static ɵprov=te({token:n,factory:n.ɵfac})};export{r as t};
