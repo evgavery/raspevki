@@ -1,1 +1,0 @@
-import{C as L,at as de,gt as h,st as ds}from"./chunk-DMMHo-c3.js";import{y as $}from"./main-RV7KRQLL.js";function m(r){let o=h($),i=!1,n=e=>{e!==i&&(i=e,o.setStageVoiceLine(e))};ds(()=>{let e=r()&&o.isStageAttached()&&o.isMicOn();L(()=>n(e))}),h(de).onDestroy(()=>n(!1))}export{m as t};
